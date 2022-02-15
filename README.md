@@ -1,4 +1,4 @@
-Welcome to your new conflicted dbt project!
+Welcome to your new conflicted dbt project!!!!!
 
 ### Using THE starter project
 
