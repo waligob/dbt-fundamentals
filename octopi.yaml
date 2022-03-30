@@ -5,6 +5,12 @@ octopi:
     hat_type: cap
     glasses_type: null
   
+  - name: Waluigi
+    number_of_arms: 8
+    is_smiling: true
+    hat_type: cap
+    glasses_type: null
+
   - name: Luigi
     number_of_arms: 8
     is_smiling: true
