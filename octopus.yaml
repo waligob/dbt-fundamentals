@@ -1,1 +1,5 @@
-
+octopus:
+  number_of_arms: 8
+  is_smiling: true
+  hat_type: null
+  glasses_type: heart
